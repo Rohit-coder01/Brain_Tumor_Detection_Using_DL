@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+keras
+numpy
+pillow
+numpy
+Pillow
+matplotlib
+Flask
+h5py
