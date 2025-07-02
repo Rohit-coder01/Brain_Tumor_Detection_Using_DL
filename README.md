@@ -15,15 +15,17 @@ Built with 💻 TensorFlow, 🔬 Keras, and 🧪 Deep Learning, this application
 
 🔥 Built with Flask + TensorFlow + Bootstrap
 
-🖼️ Screenshots
- ### Home Page Preview
+## 📸 Screenshots
 
-![App Screenshot](Screenshots/Screenshot%202025-07-02%20130917.png)
+### 🏠 Home Page
+![Home Page](Screenshots/Screenshot%202025-07-02%20130917.png)
 
-➡️ You can add your own screenshots in a screenshots/ folder. Put .png files in it and reference like above.
+### 🧠 Tumor Detection Result
+![Result Page](Screenshots/Screenshot%202025-07-02%20130942.png)
+
 
 📽️ Live Demo
-
+▶️ [Watch Demo Video](https://github.com/<your-username>/<your-repo-name>/raw/main/demo/demo_video.mp4)
 
 
 🔗 Replace YOUR_VIDEO_ID_HERE with your uploaded YouTube video ID.
