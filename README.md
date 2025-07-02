@@ -30,7 +30,7 @@ Built with 💻 TensorFlow, 🔬 Keras, and 🧪 Deep Learning, this application
 ### 📽️ Live Demo
 
 📽️ Live Demo  
-▶️ [Watch Demo Video](https://github.com/Rohit-coder01/Brain_Tumor_Detection_Using_DL/raw/main/demo/demo_video.mp4)
+▶️ [Watch Demo Video]([https://github.com/Rohit-coder01/Brain_Tumor_Detection_Using_DL/raw/main/demo/demo_video.mp4](https://github.com/Rohit-coder01/Brain_Tumor_Detection_Using_DL/raw/main/demo/demo_video.mp4))
 
 
 
