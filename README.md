@@ -20,12 +20,17 @@ Built with 💻 TensorFlow, 🔬 Keras, and 🧪 Deep Learning, this application
 ### 🏠 Home Page
 ![Home Page](Screenshots/Screenshot%202025-07-02%20130917.png)
 
+---
+
 ### 🧠 Tumor Detection Result
 ![Result Page](Screenshots/Screenshot%202025-07-02%20130942.png)
 
+---
 
-📽️ Live Demo
+### 📽️ Live Demo
+
 ▶️ [Watch Demo Video](https://github.com/<your-username>/<your-repo-name>/raw/main/demo/demo_video.mp4)
+
 
 
 🔗 Replace YOUR_VIDEO_ID_HERE with your uploaded YouTube video ID.
