@@ -67,4 +67,4 @@ Input image size: 128x128
 
 Model type: CNN (Keras .h5)
 
-Accuracy:97%~99% (based on your dataset — update as needed)
+Accuracy: 97%~99% (based on your dataset — update as needed)
