@@ -1,0 +1,66 @@
+🧠 MRI Brain Tumor Detection Web App
+A Flask-based deep learning web app for detecting brain tumors (e.g., Glioma, Pituitary, Meningioma) using MRI scan images.
+Built with 💻 TensorFlow, 🔬 Keras, and 🧪 Deep Learning, this application helps identify tumors with high confidence — via a clean and responsive Bootstrap UI that supports light/dark themes.
+
+🚀 Features
+✅ Upload any brain MRI image
+
+📊 Predict tumor presence and type: Pituitary, Glioma, Meningioma, or No Tumor
+
+🌗 Toggle between light and dark UI themes
+
+📱 Fully responsive for desktop & mobile
+
+🎨 Clinical-grade UI experience
+
+🔥 Built with Flask + TensorFlow + Bootstrap
+
+🖼️ Screenshots
+ ### Home Page Preview
+
+![App Screenshot](Screenshots/Screenshot%202025-07-02%20130917.png)
+
+➡️ You can add your own screenshots in a screenshots/ folder. Put .png files in it and reference like above.
+
+📽️ Live Demo
+
+
+
+🔗 Replace YOUR_VIDEO_ID_HERE with your uploaded YouTube video ID.
+
+🗂️ Folder Structure
+cpp
+Copy
+Edit
+📁 TumorDetectionApp/
+├── models/
+│   └── model.h5
+├── sampleimages/
+│   └── test1.jpg, ...
+├── uploads/
+│   └── (auto-filled)
+├── templates/
+│   └── index.html
+├── main.py
+├── requirements.txt
+└── README.md
+📦 Requirements
+Install required dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+▶️ Run Locally
+bash
+Copy
+Edit
+python main.py
+
+
+🧠 Model Info
+Input image size: 128x128
+
+Model type: CNN (Keras .h5)
+
+Accuracy: 99% (based on your dataset — update as needed)
