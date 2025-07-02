@@ -23,9 +23,9 @@ Built with 💻 TensorFlow, 🔬 Keras, and 🧪 Deep Learning, this application
 ---
 
 ### 🧠 Tumor Detection Result
-![Result Page](Screenshots/Screenshot%202025-07-02%20130942.png)
+![Result Page](Screenshots/Screenshot%202025-07-02%20133233.png)
 
----
+---  
 
 ### 📽️ Live Demo
 
