@@ -32,10 +32,6 @@ Built with 💻 TensorFlow, 🔬 Keras, and 🧪 Deep Learning, this application
 
 
 
-
-
-🔗 Replace YOUR_VIDEO_ID_HERE with your uploaded YouTube video ID.
-
 🗂️ Folder Structure
 cpp
 Copy
