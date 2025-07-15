@@ -41,5 +41,4 @@ Built with 💻 TensorFlow, 🔬 Keras, and 🧪 Deep Learning, this application
 
 ---
 
-## 🗂️ Folder Structure
 
